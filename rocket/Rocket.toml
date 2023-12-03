@@ -1,0 +1,6 @@
+# Rocket.toml
+[debug]
+port = 8080
+
+[release]
+port = 8888
